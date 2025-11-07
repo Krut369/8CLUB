@@ -9,14 +9,14 @@ It supports **audio recording, video recording, and text input**, integrated wit
 
 ## 🚀 Features
 
-✅ Record **audio** using the device microphone
-✅ Record **video** using the device camera
-✅ Display **live recording status**, timers, and progress bars
-✅ Save files locally using `path_provider`
-✅ Manage permissions using `permission_handler`
-✅ Preview recorded media (play/pause for video)
-✅ Integrated with **Riverpod provider** for state updates
-✅ Custom UI with consistent theming via `AppTheme`
+- Record **audio** using the device microphone
+- Record **video** using the device camera
+- Display **live recording status**, timers, and progress bars
+- Save files locally using `path_provider`
+- Manage permissions using `permission_handler`
+- Preview recorded media (play/pause for video)
+- Integrated with **Riverpod provider** for state updates-
+- Custom UI with consistent theming via `AppTheme`
 
 ---
 
